@@ -24,8 +24,4 @@ while True:
 
 print(frameList[0])
 
-animation = ['''
-  XD''',
-  '''
-
-  ;P ]
+print("This an animation")
